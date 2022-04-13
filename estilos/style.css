@@ -1,0 +1,22 @@
+footer {
+  background-color: black; }
+  footer p {
+    font-size: 20px;
+    color: azure;
+    text-align: center; }
+    footer p a {
+      text-decoration: none; }
+      footer p a:hover {
+        color: red; }
+
+body {
+  background-color: #ede5e5; }
+  body div.card {
+    text-align: center;
+    display: flex;
+    background-color: #a3a0a0;
+    color: white;
+    align-self: center;
+    flex-direction: row-reverse;
+    padding: 40px;
+    height: 15%; }

@@ -1,0 +1,27 @@
+
+@import "footer";
+
+@import "header";
+
+
+
+body{
+    background-color: rgb(237, 229, 229);
+    div.card{
+      
+        text-align: center;
+        display: flex;
+
+       
+
+        background-color: rgb(163, 160, 160);
+        color: white;
+		align-self: center;
+		flex-direction: row-reverse;
+        padding: 40px;
+        height: 15%;
+
+
+    }
+
+}

@@ -1,0 +1,14 @@
+footer {
+    background-color: black;
+    p{
+        font-size: 20px;
+        color: azure;
+        text-align: center;
+    a{
+        text-decoration: none;
+        &:hover{
+            color: red
+        }
+    }
+    }
+}
